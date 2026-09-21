@@ -10,3 +10,5 @@ export default function Home() {
     <Workbench inventory={getInventory()} marketplaces={getMarketplaces()} />
   );
 }
+
+//TODO: Remove this comment (Vercel autodeploy test)
